@@ -34,5 +34,8 @@
   <img width="40%" height="40%" src="https://github.com/m-saylor/one-piece-landing-page/blob/main/readme-media/one-piece-liveaction-poster.jpg">
 </p>
 
+<br></br>
+<br></br>
+
 ## Credits
 - The video from the One Piece Live Action sailing scence can be found [here](https://youtu.be/AaUcgtfATiE?si=0-QBdGpiVOELBEUc).
