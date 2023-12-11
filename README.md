@@ -3,7 +3,7 @@ This is a parody landing page that appears as a recruitment site for users to jo
 
 ## The Content
 The Strawhat pirates are a crew made up of the main characters in the fictional universe of One Piece, which is a popular manga, anime, and now live-action show.
-You can learn more about One Piece and the lore [here]().
+You can learn more about One Piece and the [lore](https://onepiece.fandom.com/wiki/One_Piece_Wiki).
 Read the [manga](), watch the [anime](), or check out the new [live-action adaptation]() if you are interested in these pirates and their vast world.
 
 ## The Project
