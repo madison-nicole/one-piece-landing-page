@@ -1,4 +1,4 @@
-# Navigating to the One Piece - Landing Page
+# Navigating to the One Piece : Landing Page Project
 This is a parody landing page that appears as a recruitment site for users to join the Strawhat Pirate crew from the fictional universe of One Piece.
 
 ## The Content
