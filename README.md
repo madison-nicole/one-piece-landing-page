@@ -3,7 +3,7 @@
   This is a parody landing page of a recruitment site for users to join the Strawhat Pirate crew from the fictional universe of One Piece.
   <br></br>
 
-  <img width="40%" height="40%" src="https://github.com/m-saylor/one-piece-landing-page/blob/main/readme-media/one-piece-logo-black-background.jpg">
+  <img width="60%" height="60%" src="https://github.com/m-saylor/one-piece-landing-page/blob/main/readme-media/One-Piece-Landing-Page.GIF">
 </p>
 
 <br></br>
