@@ -3,13 +3,13 @@
   This is a parody landing page of a recruitment site for users to join the Strawhat Pirate crew from the fictional universe of One Piece.
   <br></br>
 
-  <img width="60%" height="60%" src="https://github.com/m-saylor/one-piece-landing-page/blob/main/readme-media/One-Piece-Landing-Page.GIF">
+  <img width="60%" height="60%" src="https://github.com/madison-nicole/one-piece-landing-page/blob/main/readme-media/One-Piece-Landing-Page.GIF">
 </p>
 
 <br></br>
 
 ## The Content
-<img src="https://github.com/m-saylor/one-piece-landing-page/blob/main/readme-media/luffy-wanted-poster.gif" height="20%" width="20%" align="right"/>
+<img src="https://github.com/madison-nicole/one-piece-landing-page/blob/main/readme-media/luffy-wanted-poster.gif" height="20%" width="20%" align="right"/>
 
 - The Strawhat pirates are a crew made up of the main characters in the fictional universe of One Piece, which is a popular manga, anime, and now live-action show.
 - If you're curious, you can learn more about One Piece and the [lore](https://onepiece.fandom.com/wiki/One_Piece_Wiki).
@@ -31,7 +31,7 @@
 </p>
 
 <p align="center">
-  <img width="40%" height="40%" src="https://github.com/m-saylor/one-piece-landing-page/blob/main/readme-media/one-piece-liveaction-poster.jpg">
+  <img width="40%" height="40%" src="https://github.com/madison-nicole/one-piece-landing-page/blob/main/readme-media/one-piece-liveaction-poster.jpg">
 </p>
 
 <br></br>
